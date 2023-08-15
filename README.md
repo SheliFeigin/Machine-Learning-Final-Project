@@ -1,4 +1,4 @@
-**Determining` Malicious Files: A Machine Learning Project**
+**Determining Malicious Files: A Machine Learning Project**
 
 **Authors: Sheli Feigin and Shani Hazan**
 
