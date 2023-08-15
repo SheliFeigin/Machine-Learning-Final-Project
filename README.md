@@ -2,7 +2,8 @@
 
 **Authors: Sheli Feigin and Shani Hazan**
 
-This project is our final assignment in a Machine Learning course at Tel Aviv University.
+This project is our final assignment in a Machine Learning course at the "Digital Sciences for High-Tech" degree program at Tel Aviv University.
+
 Our task involved assimilating information concerning various attributes of executable files (.exe) and tasked us with constructing a model capable of forecasting the likelihood of a given file harboring malicious intent through a static scrutiny of said files.
 
 This venture revolves around a binary classification challenge wherein we segregated files into dual categories: those deemed malicious (1) and those deemed benign (0), based on the array of features encompassed within the dataset. While certain features are well-defined, others remain anonymous. 
